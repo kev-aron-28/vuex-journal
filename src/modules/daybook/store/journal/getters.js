@@ -1,0 +1,7 @@
+const getEntriesyByTerm = () => {
+
+}
+
+export {
+    getEntriesyByTerm
+}
